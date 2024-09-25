@@ -24,7 +24,7 @@ Puedes descargar la aplicación desde:
 - Cada version es independiente de la anterior y no es necesario actualizar la aplicación para que siga funcionando.
 ## Como Conectarse
 Puedes obtener el UniqueId de tu cuenta de TikTok desde la página de inicio de la aplicación. o desde su web.
-
+> puedes utilizar tu @uniqueid que seria el nombre de tu cuenta de tiktok.
 ## Características
 - Multidispositivo (Multi-Device)
   - Compatible con Windows, Linux (Compile with Electron).
@@ -60,6 +60,7 @@ Puedes obtener el UniqueId de tu cuenta de TikTok desde la página de inicio de 
 - Mas Configuraciones (More Configs) `coming soon`
   - Próximamente más opciones de personalización.
   - Nuevas funcionalidades en desarrollo.
+
 ## Creditos
 - link de la documentacion original: https://stack.jimmycai.com/
 - Fuente o template: [Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack)
