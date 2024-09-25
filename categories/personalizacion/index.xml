@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalizacion on TiktokLiveApp</title><link>https://nglmercer.github.io/categories/personalizacion/</link><description>Recent content in Personalizacion on TiktokLiveApp</description><generator>Hugo -- gohugo.io</generator><language>es-es</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nglmercer.github.io/categories/personalizacion/index.xml" rel="self" type="application/rss+xml"/><item><title>Chat de Texto a voz (SpeechChat TTS)</title><link>https://nglmercer.github.io/p/chat-de-texto-a-voz-speechchat-tts/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><guid>https://nglmercer.github.io/p/chat-de-texto-a-voz-speechchat-tts/</guid><description>&lt;h2 id="configuracion-inicial">Configuracion Inicial
+&lt;/h2>&lt;p>Por defecto, esta activado.
+si quiere desactivarlo, en Allowed Users desmarque todas las opciones.&lt;/p>
+&lt;ul>
+&lt;li>2 Distribuciones
+&lt;ul>
+&lt;li>voz 1 = StreamElements : utiliza la api de streamelements.&lt;/li>
+&lt;li>voz 2 = Speech to Text : utiliza la api speech to text local del navegador.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="general-settings">General Settings
+&lt;/h3>&lt;ul>
+&lt;li>voz 1 : utiliza la api de streamelements no tiene controles de audio por ahora.
+&lt;ul>
+&lt;li>seleccionar multiples idiomas y voces.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>voz 2 : utiliza la api speech to text local del navegador.
+&lt;ul>
+&lt;li>solo puedes seleccionar los que estan disponibles en el navegador.&lt;/li>
+&lt;li>control de speech&lt;/li>
+&lt;li>control de velocidad&lt;/li>
+&lt;li>control de volumen&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Allowed Users
+&lt;ul>
+&lt;li>seleccionar usuarios que pueden usar esta funcion.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Comment Types
+&lt;ul>
+&lt;li>seleccionar los tipos de comentarios que pueden usar esta funcion.
+&lt;ul>
+&lt;li>Any comment : todos los comentarios.&lt;/li>
+&lt;li>comments starting with : comentarios que empiezan con un caracter especifico.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>More Settings
+&lt;ul>
+&lt;li>Puedes Ignorar esto ya que no esta habilitado.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Blacklist
+&lt;ul>
+&lt;li>Puedes bloquear palabras o frases que no se van a mostrar se van a leer.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

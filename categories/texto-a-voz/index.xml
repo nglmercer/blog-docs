@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Texto a Voz on TiktokLiveApp</title><link>https://nglmercer.github.io/categories/texto-a-voz/</link><description>Recent content in Texto a Voz on TiktokLiveApp</description><generator>Hugo -- gohugo.io</generator><language>es-es</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nglmercer.github.io/categories/texto-a-voz/index.xml" rel="self" type="application/rss+xml"/><item><title>Reemplazar valores</title><link>https://nglmercer.github.io/p/reemplazar-valores/</link><pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><guid>https://nglmercer.github.io/p/reemplazar-valores/</guid><description>&lt;h2 id="configuracion-inicial">Configuracion Inicial
+&lt;/h2>&lt;p>Por defecto, esta activado.
+Entendido. Voy a crear una explicación detallada del código utilizando Markdown, incluyendo un diagrama de mermaid para representar visualmente las sustituciones, y un resumen al final.&lt;/p>
+&lt;h2 id="funcionamiento">Funcionamiento
+&lt;/h2>&lt;ol>
+&lt;li>Obtiene el nombre del jugador desde el almacenamiento local.&lt;/li>
+&lt;li>Realiza una serie de reemplazos utilizando expresiones regulares.&lt;/li>
+&lt;/ol>
+&lt;h2 id="reemplazos-realizados">Reemplazos realizados
+&lt;/h2>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align: left">Variable&lt;/th>
+&lt;th style="text-align: left">Reemplazado por&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align: left">uniqueId&lt;/td>
+&lt;td style="text-align: left">data.uniqueId o &amp;rsquo;testUser'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">uniqueid&lt;/td>
+&lt;td style="text-align: left">data.uniqueId o &amp;rsquo;testUser'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">nickname&lt;/td>
+&lt;td style="text-align: left">data.nickname o &amp;rsquo;testUser'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">comment&lt;/td>
+&lt;td style="text-align: left">data.comment o &amp;rsquo;testComment'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">{milestoneLikes}&lt;/td>
+&lt;td style="text-align: left">data.likeCount o &amp;lsquo;50testLikes&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">{likes}&lt;/td>
+&lt;td style="text-align: left">data.likeCount o &amp;lsquo;50testLikes&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">message&lt;/td>
+&lt;td style="text-align: left">data.comment o &amp;rsquo;testcomment'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">giftName&lt;/td>
+&lt;td style="text-align: left">data.giftName o &amp;rsquo;testgiftName'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">giftname&lt;/td>
+&lt;td style="text-align: left">data.giftName o &amp;rsquo;testgiftName'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">repeatCount&lt;/td>
+&lt;td style="text-align: left">data.repeatCount o &amp;lsquo;123&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">repeatcount&lt;/td>
+&lt;td style="text-align: left">data.repeatCount o &amp;lsquo;123&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">playername&lt;/td>
+&lt;td style="text-align: left">playerName o &amp;lsquo;@a&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">diamonds&lt;/td>
+&lt;td style="text-align: left">data.diamondCount o &amp;lsquo;50testDiamonds&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">likecount&lt;/td>
+&lt;td style="text-align: left">data.likeCount o &amp;lsquo;50testLikes&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">followRole&lt;/td>
+&lt;td style="text-align: left">data.followRole o &amp;lsquo;followRole 0&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">userId&lt;/td>
+&lt;td style="text-align: left">data.userId o &amp;lsquo;1235646&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">teamMemberLevel&lt;/td>
+&lt;td style="text-align: left">data.teamMemberLevel o &amp;rsquo;teamMemberLevel 0'&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align: left">subMonth&lt;/td>
+&lt;td style="text-align: left">data.subMonth o &amp;lsquo;subMonth 0&amp;rsquo;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="resumen">Resumen
+&lt;/h2>&lt;p>una utilidad para procesar comandos dinámicamente, reemplazando marcadores de posición con datos reales. Acepta un comando, un objeto de datos y una bandera opcional. Realiza verificaciones de seguridad, maneja comandos especiales y ejecuta una serie de reemplazos basados en expresiones regulares. Esta función es útil en sistemas que necesitan generar comandos personalizados basados en la entrada del usuario y el estado del sistema.&lt;/p></description></item></channel></rss>

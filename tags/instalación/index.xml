@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Instalación on TiktokLiveApp</title><link>https://nglmercer.github.io/tags/instalaci%C3%B3n/</link><description>Recent content in Instalación on TiktokLiveApp</description><generator>Hugo -- gohugo.io</generator><language>es-es</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nglmercer.github.io/tags/instalaci%C3%B3n/index.xml" rel="self" type="application/rss+xml"/><item><title>Instalación e Inicio</title><link>https://nglmercer.github.io/p/instalaci%C3%B3n/</link><pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate><guid>https://nglmercer.github.io/p/instalaci%C3%B3n/</guid><description>&lt;img src="https://nglmercer.github.io/p/instalaci%C3%B3n/indexpage.png" alt="Featured image of post Instalación e Inicio" />&lt;h2 id="instalación-y-descarga">Instalación y Descarga
+&lt;/h2>&lt;p>Puedes descargar la aplicación desde:&lt;/p>
+&lt;ul>
+&lt;li>el &lt;a class="link" href="https://github.com/nglmercer/Tiktok-Live-APPv3" target="_blank" rel="noopener"
+>repositorio&lt;/a> en el apartado de Releases,&lt;/li>
+&lt;li>o desde la &lt;a class="link" href="https://github.com/nglmercer/Tiktok-Live-APPv3/releases" target="_blank" rel="noopener"
+>página de descargas&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center;">
+&lt;img src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png" alt="Hugo Theme Stack" width="200" height="200">
+&lt;/div>
+&lt;h3 id="versiones-y-actualizaciones">Versiones y Actualizaciones
+&lt;/h3>&lt;ul>
+&lt;li>Constantemente se van actualizando&lt;/li>
+&lt;li>Cada version es independiente de la anterior y no es necesario actualizar la aplicación para que siga funcionando.&lt;/li>
+&lt;/ul>
+&lt;h2 id="como-conectarse">Como Conectarse
+&lt;/h2>&lt;p>Puedes obtener el UniqueId de tu cuenta de TikTok desde la página de inicio de la aplicación. o desde su web.&lt;/p>
+&lt;blockquote>
+&lt;p>puedes utilizar tu @uniqueid que seria el nombre de tu cuenta de tiktok.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="características">Características
+&lt;/h2>&lt;ul>
+&lt;li>Multidispositivo (Multi-Device)
+&lt;ul>
+&lt;li>Compatible con Windows, Linux (Compile with Electron).&lt;/li>
+&lt;li>Acceso desde dispositivos móviles (device with web browser).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Chat de Texto a voz (SpeechChat TTS)
+&lt;ul>
+&lt;li>Soporte para múltiples idiomas.&lt;/li>
+&lt;li>Personalización de la voz.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Acciones Y Eventos (AccionsEvents)
+&lt;ul>
+&lt;li>Configure una accion para cada evento.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Minecraft Interactivo
+&lt;ul>
+&lt;li>Comandos personalizados.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>VRChat Acciones (Vrchat OSC)
+&lt;ul>
+&lt;li>Envio de mensajes OSC.&lt;/li>
+&lt;li>configuracion de movimientos.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Api personalizado (Webhooks? API fetch)
+&lt;ul>
+&lt;li>Creación de webhooks personalizados.&lt;/li>
+&lt;li>Integración con APIs externas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Presion de teclado (Keyboard KeyBindings)
+&lt;ul>
+&lt;li>Presione y simule presionar teclas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Sistema de Puntos (Points System)
+&lt;ul>
+&lt;li>Gestión de puntos por usuario.&lt;/li>
+&lt;li>Sistema de recompensas.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mostrar Imagen del Usuario (Profile Image)
+&lt;ul>
+&lt;li>Personalización del mensaje y la imagen de perfil.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mostrar Multimedia por Evento (MediaAudio, MediaVideo, MediaImage)
+&lt;ul>
+&lt;li>Reproducción de audio y imágenes.&lt;/li>
+&lt;li>Visualización de videos.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Audio Control (Audio Control)
+&lt;ul>
+&lt;li>Control de volumen.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Guardado en la nube (Cloud Backup)
+&lt;ul>
+&lt;li>Sincronización automática de datos.&lt;/li>
+&lt;li>Recuperación de datos.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Mas Configuraciones (More Configs) &lt;code>coming soon&lt;/code>
+&lt;ul>
+&lt;li>Próximamente más opciones de personalización.&lt;/li>
+&lt;li>Nuevas funcionalidades en desarrollo.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="creditos">Creditos
+&lt;/h2>&lt;ul>
+&lt;li>link de la documentacion original: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+>https://stack.jimmycai.com/&lt;/a>&lt;/li>
+&lt;li>Fuente o template: &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+>Hugo Theme Stack&lt;/a>&lt;/li>
+&lt;li>Imagenes de &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+>Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
