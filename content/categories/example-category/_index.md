@@ -1,5 +1,5 @@
 ---
-title: Instalación
+title: Instalacion
 description: Como instalar la aplicación
 image:
 
