@@ -2,7 +2,7 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: GiThub es la plataforma de desarrollo de software más grande del mundo.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
@@ -14,20 +14,18 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
+Para usar esta función, agregue `links` a la sección frontal.
+La primera pagina de este sitio:
 ```yaml
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: GitHub es la plataforma de desarrollo de software más grande del mundo.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    description: TypeScript es un superconjunto escrito de JavaScript que compila a JavaScript simple.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` Field acepta imágenes locales y externas.

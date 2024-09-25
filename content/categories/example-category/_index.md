@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Instalación
+description: Como instalar la aplicación
 image:
 
 # Badge style
