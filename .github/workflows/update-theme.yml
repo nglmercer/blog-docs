@@ -30,7 +30,7 @@ jobs:
         run: hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
 
       - name: Tidy go.mod, go.sum
-        run: hugo mod tidy
+        run: hugo server
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
