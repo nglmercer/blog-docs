@@ -9,8 +9,8 @@ tags:
     - Speech to Text
     - Voice Chat
 categories:
-    - Texto a voz
-    - SpeechChat
+    - Configuracion
+    - Personalizacion
 ---
 ## Configuracion Inicial
 Por defecto, esta activado.
